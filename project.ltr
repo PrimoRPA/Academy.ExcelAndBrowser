@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts>
+        <WatchScript>
+            <Script>String.Join(Environment.NewLine, test.AsEnumerable().Select(r =&gt; r.Field&lt;string&gt;("Валюта")).ToList())</Script>
+        </WatchScript>
+    </WatchScripts>
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\oxy2c\Documents\Primo\Browser and Excel practice\Process\SetCurrency.ltw</Key>
+            <Value>03c6f268-b18e-4dba-b1e0-403a6d53354f</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\oxy2c\Documents\Primo\Browser and Excel practice\Process\SetCurrency.ltw</Key>
+            <Value>053ede54-f1a6-45c9-a996-5bc66614486c</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\oxy2c\Documents\Primo\Browser and Excel practice\Main.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Browser and Excel practice\Process\ReadConfig.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Browser and Excel practice\Process\CBR_GetKeyRate.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Browser and Excel practice\Process\CBR_GetRates.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Browser and Excel practice\Process\CBR_Open.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Browser and Excel practice\Process\SetCurrency.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Browser and Excel practice\Test.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.BrowserExcel\Main.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.BrowserExcel\Process\CBR_GetRates.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.BrowserExcel\Process\CBR_SetDate.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.BrowserExcel\Test.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.BrowserExcel\Process\CBR_Navigate.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.BrowserExcel\Process\Excel_ReadInputFile.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.BrowserExcel\Process\CBR_Open.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.BrowserExcel\Process\Excel_ProcessFile.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.BrowserExcel\Process\Excel_FindRate.ltw</string>
+        <string>C:\Users\oxy2c\Documents\Primo\Primo.Academy.BrowserExcel\test.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
